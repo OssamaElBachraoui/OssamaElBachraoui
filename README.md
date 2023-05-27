@@ -2,12 +2,12 @@
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
+<!--   <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
   <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/> -->
 </div>
 
-### <div align="center">👨‍💻 I’m currently working on some projects while learning new thecnologis.Still in the process of learning in the world of Web Development</div>
+### <div align="center">👨‍💻 I’m currently working on some projects while learning new thecnologis. Still in the process of learning in the world of Web Development</div>
 
 
 - 🔭 I’m currently looking for a work opportunity
@@ -18,8 +18,17 @@
 
 
 
-
 <br/>  
+
+<div align="center">
+<a href="https://github.com/OssamaElBachraoui" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
+<a href="linkedin.com/in/ossama-el-bachraoui-590aa7169" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+</div>
 
 <br/>
 
@@ -64,20 +73,7 @@
 
 
 ## Connect with me
-<div align="center">
-<a href="https://github.com/OssamaElBachraoui" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
-<a href="linkedin.com/in/ossama-el-bachraoui-590aa7169" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-<br/>
-<div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
 
-
-</div>
 
 
 #
