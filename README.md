@@ -7,11 +7,7 @@
 
 
 <br>
-<div style ="display:flex;" align="center">
-<!--   <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
-  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/> -->
-</div>
+
 
 ### <div align="center">👨‍💻 I’m currently working on some projects while learning new thecnologis. Still in the process of learning in the world of Web Development</div>
 
@@ -62,8 +58,6 @@
 <h3 align="center">Backend </h3>
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<!-- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> -->
-<!--  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>   -->
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
