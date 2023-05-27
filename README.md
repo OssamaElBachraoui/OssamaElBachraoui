@@ -32,7 +32,7 @@
 
 <br/>
 
-## Tech Stack
+## <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <table align="center">
 <tr><td align="top" width="33%">
