@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Ossama EL Bachraoui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=200&width=435&lines=Welcome+to+Ossama's+Github;Bootcamp%2Fself+thaught+Front-end+developer;Always+learning+new+things;Competitive+programmer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=200&width=435&lines=Welcome+to+Ossama's+Github;Bootcamp%2Fself+thaught+Front-end+dev;Always+learning+new+things...;Competitive+programmer" alt="Typing SVG" /></a>
 </p>
 
 
